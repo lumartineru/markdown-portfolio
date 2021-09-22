@@ -1,1 +1,13 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Habilidades técnicas
+Esta es una *lista* conn mis **habilidades técnicas*:
+
+## Lenguajes de programación
+- Java
+- Python
+- Uniface
+
+## Colaborativas
+- GitHub
+- Git
+- Shareboard
+
